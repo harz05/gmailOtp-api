@@ -1,7 +1,7 @@
 add .env file with following format-
 
-* CLIENT_ID=<br/>
-* CLIENT_SECRET=<br/>
+* CLIENT_ID=
+* CLIENT_SECRET=
 * REDIRECT_URI=
 * REFRESH_TOKEN=
 
