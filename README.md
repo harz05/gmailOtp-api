@@ -1,4 +1,4 @@
-add .env file with following format-\
+add .env file with following format-
 
 *CLIENT_ID=
 *CLIENT_SECRET=
