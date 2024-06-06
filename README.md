@@ -6,5 +6,6 @@ add .env file with following format-
 * REFRESH_TOKEN=
 
 run following commands-
-npm install
-npm install googleapis nodemailer dotenv
+
+* `npm install`
+* `npm install googleapis nodemailer dotenv`
