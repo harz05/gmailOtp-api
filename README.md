@@ -1,9 +1,9 @@
 add .env file with following format-
 
-*CLIENT_ID=
-*CLIENT_SECRET=
-*REDIRECT_URI=
-*REFRESH_TOKEN=
+* CLIENT_ID=<br/>
+* CLIENT_SECRET=<br/>
+* REDIRECT_URI=
+* REFRESH_TOKEN=
 
 run following commands-
 npm install
